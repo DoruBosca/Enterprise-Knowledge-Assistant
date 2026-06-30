@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Knowledge Assistant",
+  "description": "An intelligent knowledge portal offering PDF document ingestion, precise semantic search, interactive AI chat, and automatic source citation matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

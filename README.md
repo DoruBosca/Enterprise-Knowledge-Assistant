@@ -14,6 +14,8 @@ Enterprise Knowledge Assistant solves this problem by combining document ingesti
 
 The assistant allows users to upload or ingest PDF documents, search across them using natural language, and receive AI-generated responses grounded in the original source content.
 
+<img width="1874" height="850" alt="image" src="https://github.com/user-attachments/assets/3f686010-52d1-4d51-8aa9-5d165801d17e" />
+
 ---
 
 ## 🎯 Key Features
